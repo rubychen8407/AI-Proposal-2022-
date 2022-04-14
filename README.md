@@ -6,6 +6,7 @@
 ----------------
 ### Datasets
 #### [AZH Datasets](https://github.com/uwm-bigdata/wound_classification/tree/main/data/original%20images)
+-->這邊我好像不小心Load到四類別～用P, Ｖ, D就好了唷
 
 #### **[Medectec](http://www.medetec.co.uk/files/medetec-image-databases.html)** 
 * DM foot(D): 46 images
