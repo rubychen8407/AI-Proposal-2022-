@@ -1,4 +1,5 @@
 # AI-Proposal-2022-
+
 ** Medectec ** 
 * DM foot(D): 46 images
 * Pressure ulcer(P):166 images
