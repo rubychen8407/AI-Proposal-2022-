@@ -28,12 +28,24 @@
 ----------------
 ### Datasets
 #### [AZH Datasets](https://github.com/uwm-bigdata/wound_classification/tree/main/data/original%20images)
+**Original**
 * D: 154 images
 * V: 156 images
 * P: 100 images
--->這邊我好像不小心Load到四類別～用P, Ｖ, D就好了唷
+
+**Training**
+* D: 123 images
+* V: 124 images
+* P: 80 images
+
 
 #### **[Medectec](http://www.medetec.co.uk/files/medetec-image-databases.html)** 
-* DM foot(D): 46 images
-* Pressure ulcer(P):166 images
-* Aterial and Venous(A+V): total 120. (original website has 136 images, manully deleted 15 images with covered by dressing, and 1 image which doesn't belong to wound.)
+**Original**
+* D: 46 images
+* P:166 images
+* A+V: total 120. (original website has 136 images, manully deleted 15 images with covered by dressing, and 1 image which doesn't belong to wound.)
+
+**Training**
+* D: 36 images
+* P:132 images
+* A+V: 96 images
